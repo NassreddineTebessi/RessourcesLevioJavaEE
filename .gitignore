@@ -1,0 +1,132 @@
+# Directories #
+build/
+bin/
+target/
+libs/
+tmp/
+node_modules/
+jaxws/jaxws-client/src/main/
+jaxws/jaxws-endpoint/src/main/webapp/WEB-INF/wsdl/
+ 
+# OS Files #
+.DS_Store
+ 
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+rebel.xml
+
+######################
+# Windows
+######################
+ 
+# Windows image file caches
+Thumbs.db 
+ 
+# Folder config file
+Desktop.ini
+ 
+######################
+# OSX
+######################
+ 
+.DS_Store
+.svn
+ 
+# Thumbnails
+._*
+ 
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# NetBeans
+######################
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+ 
+######################
+# IDEA
+######################
+*.iml
+*.ipr
+*.iws
+.idea/
+atlassian-ide-plugin.xml
+
+ 
+######################
+# Eclipse
+######################
+ 
+*.pydevproject
+.project
+.settings/
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+######################
+# Manifest & Pom properties
+######################
+
+*.MF
+**/pom.properties
+
+
+# External tool builders
+.externalToolBuilders/
+ 
+# Locally stored "Eclipse launch configurations"
+*.launch
+ 
+# CDT-specific
+.cproject
+ 
+# PDT-specific
+.buildpath
+
+# Testing environment specific
+derby.log
+
+
+######################
+# Liberty tools
+######################
+
+.factorypath
+
+/.settings/
+/.project
+map-ear/target/m2e-wtp/ear-resources/META-INF/maven/tn.esprit.twin.ninja/map-ear/pom.properties
+map-ejb/.classpath
+map-ejb/.classpath
+map-ear/target/m2e-wtp/ear-resources/META-INF/maven/tn.esprit.twin.ninja/map-ear/pom.properties
+map-ejb/pom.xml
+map-ejb/src/main/resources/META-INF/persistence.xml
+map-ejb/target/classes/META-INF/maven/tn.esprit.twin.ninja/map-ejb/pom.xml
+map-ejb/target/classes/META-INF/persistence.xml
+map-web/target/m2e-wtp/web-resources/META-INF/maven/tn.esprit.twin.ninja/map-web/pom.properties
+map-ear/.settings/org.eclipse.wst.common.component
+map-ear/target/m2e-wtp/ear-resources/META-INF/MANIFEST.MF
+map-ejb/target/classes/META-INF/MANIFEST.MF
+map-ejb/target/classes/META-INF/maven/tn.esprit.twin.ninja/map-ejb/pom.properties
+map-web/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+map-web/target/m2e-wtp/web-resources/META-INF/maven/tn.esprit.twin.ninja/map-web/pom.properties
+map-ear/target/m2e-wtp/ear-resources/META-INF/maven/tn.esprit.twin.ninja/map-ear/pom.properties
